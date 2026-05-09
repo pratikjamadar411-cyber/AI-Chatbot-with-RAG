@@ -97,7 +97,9 @@ Author
 Pratik Jamadar
 
 - GitHub: https://github.com/pratikjamadar411-cyber
-- LinkedIn: https://www.linkedin.com/feed/
+- LinkedIn: www.linkedin.com/in/pratik-jamadar-8a1554234
+
+
 
 
 Support
