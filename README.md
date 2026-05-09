@@ -99,8 +99,8 @@ This project aims to become a fully functional AI assistant capable of:
 
 Pratik Jamadar
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- GitHub: https://github.com/pratikjamadar411-cyber
+- LinkedIn: https://www.linkedin.com/feed/
 
 ---
 
