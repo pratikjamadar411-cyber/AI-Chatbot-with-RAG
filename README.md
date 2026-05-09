@@ -2,17 +2,16 @@
 
 An AI-powered Retrieval-Augmented Generation (RAG) chatbot that answers questions from custom PDF documents using Large Language Models (LLMs), embeddings, and vector search.
 
----
 
-## 🚧 Project Status
+
+Project Status
 
 This project is currently under active development.
 
 New features and improvements are being added continuously.
 
----
 
-## ✨ Features
+Features
 
 - PDF document question answering
 - Retrieval-Augmented Generation (RAG)
@@ -22,9 +21,9 @@ New features and improvements are being added continuously.
 - FastAPI backend
 - AI-powered chatbot interface
 
----
 
-## 🛠️ Tech Stack
+
+Tech Stack
 
 - Python
 - Ollama
@@ -35,9 +34,9 @@ New features and improvements are being added continuously.
 - React
 - JavaScript
 
----
 
-## 📌 Planned Features
+
+ Planned Features
 
 - Multi-PDF support
 - Chat history
@@ -47,15 +46,13 @@ New features and improvements are being added continuously.
 - Cloud deployment
 - Better retrieval accuracy
 
----
-
-## 📷 Screenshots
+Screenshots
 
 Screenshots will be added soon.
 
----
 
-## ⚙️ Installation
+
+Installation
 
 Clone the repository:
 
@@ -85,7 +82,7 @@ Run backend server separately.
 
 ---
 
-## 🚀 Future Goals
+Future Goals
 
 This project aims to become a fully functional AI assistant capable of:
 - intelligent document retrieval
@@ -95,7 +92,7 @@ This project aims to become a fully functional AI assistant capable of:
 
 ---
 
-## 👨‍💻 Author
+Author
 
 Pratik Jamadar
 
