@@ -99,8 +99,7 @@ Pratik Jamadar
 - GitHub: https://github.com/pratikjamadar411-cyber
 - LinkedIn: https://www.linkedin.com/feed/
 
----
 
-## ⭐ Support
+Support
 
 If you like this project, consider giving it a star on GitHub.
