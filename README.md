@@ -90,7 +90,7 @@ This project aims to become a fully functional AI assistant capable of:
 - multi-document querying
 - scalable AI deployment
 
----
+
 
 Author
 
